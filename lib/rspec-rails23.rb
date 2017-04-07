@@ -14,4 +14,5 @@ module Rspec
 
   end
 
+  Rails  = Rails23
 end
